@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Hugh Vaughan &amp; John Vaughan executors of Charles Vaughan, upon the appeal of Warwick Bamfield Esq., son and heir of Thomas Bamfield.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08634</idno>
+            <idno type="STC">Wing C919AC</idno>
+            <idno type="STC">ESTC R175661</idno>
+            <idno type="EEBO-CITATION">61296893</idno>
+            <idno type="OCLC">ocm 61296893</idno>
+            <idno type="VID">180480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180480)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2831:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Hugh Vaughan &amp; John Vaughan executors of Charles Vaughan, upon the appeal of Warwick Bamfield Esq., son and heir of Thomas Bamfield.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1676?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bamfield, Thomas --  Trials, litigation, etc.</term>
+               <term>Bamfield, Warwick.</term>
+               <term>Vaughan, Hugh, --  Sir.</term>
+               <term>Vaughan, Charles, --  Gentleman --  Trials, litigation, etc.</term>
+               <term>Vaughan, John, --  Sir, 1603-1674.</term>
+               <term>Claims against decedents' estates --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180480:1" rendition="simple:additions"/>
+            <head>THE Caſe of Hugh Vaughan &amp; John Vaughan, Executors of Charles Vaughan, Upon the APPEAL of <hi>Warwick Bamfield,</hi> Eſq; Son and Heir of <hi>Thomas Bamfield.</hi>
+            </head>
+            <p>UPON the ſaid <hi>Charles Vaughan</hi>'s lending the ſaid <hi>Thomas Bamfield</hi> 1000 <hi>l.</hi>
+               <note place="margin">20 <hi>Martii</hi> 1631</note> the ſaid <hi>Thomas Bamfield</hi> demiſed his Barton of <hi>Haw<g ref="char:EOLhyphen"/>dington</hi> to the ſaid <hi>Charles</hi> for 50 years at a Pepper-Corn-Rent, who the next day re-demiſed the ſame to the ſaid <hi>Thomas</hi> for 49 years, paying to <hi>Charles</hi> and his Executors for 42 years of the Terme 80 <hi>l. per Annum</hi> (which was then the Intereſt of the 1000 <hi>l.</hi> at 8 <hi>l. per Cent.</hi>) at <hi>Michaelmas</hi> and <hi>Lady Day; Thomas Bamfield</hi> covenanting to pay all the Taxes. In which Inden<g ref="char:EOLhyphen"/>ture was a <hi>Proviſo,</hi> That if the 80 <hi>l. per Annum</hi> were behind ſix Months, or if <hi>Thomas Bamfield</hi> or his Heirs ſhould not, the next day after any of the ſaid Feaſts of <hi>Michaelmas</hi> or <hi>Lady Day,</hi> during the 42 years, pay to <hi>Charles Vaughan</hi> or his Executors the 1000 <hi>l.</hi> and Arrears of the 80 <hi>l. per Annum</hi> (if any) the Indenture of re-demiſe to be void. And <hi>Vaughan</hi> Covenanted upon payment of the 80 <hi>l. per Annum</hi> and 1000 <hi>l.</hi> to re-convey to <hi>Bamfield</hi> and his Heirs.</p>
+            <p>
+               <hi>Thomas Bamfield</hi> paid the 80 <hi>l. per Annum</hi> to 1640, and afterwards till 1648. it was Atrear, whereupon <hi>Charles Vaughan</hi> exhibited a Bill in <hi>Chancery</hi> againſt him to compel him to pay the 1000 <hi>l.</hi> and Arrears of the 80 <hi>l. per Annum,</hi> or elſe that the Premiſſes might be Decreed to him during the reſidue of the Term abſolutely. And <hi>Bamfield</hi> inſiſted that the Premiſſes were ſequeſtered, and therefore he ought not to pay the Rent, owning that the 1000 <hi>l.</hi> was to be paid. And <hi>Bamfield</hi> exhibited his Bill to be freed of the Rent Ar<g ref="char:EOLhyphen"/>rear, becauſe of the Sequeſtration, and to have Abatement of Parliament Taxes, alledging the Conveyance to be a Security for the 1000 <hi>l.</hi>
+            </p>
+            <p>Thoſe Cauſes were heard,
+<note place="margin">In <hi>April</hi> 1652.</note> and <hi>Bamfield</hi> was Decreed to pay the Arrears of the 80 <hi>l. per Annum,</hi> deducting Parliament Taxes; and he to hold the Premiſſes liable to the Rent and Covenants and Agreements in the Re-demiſe.</p>
+            <p>And upon that Account 10 <hi>l. per Annum</hi> was abated for Taxes, and ſo only 70 <hi>l. per Annum</hi> was paid.</p>
+            <p>The 42 years expired,
+<note place="margin">At <hi>Lady-day</hi> 1674</note> and the 1000 <hi>l.</hi> not being paid, the Executors of <hi>Charles Vaughan</hi> brought an Ejectment to recover the Premiſ<g ref="char:EOLhyphen"/>ſes for the remainder of the 50 years to ſatisfie the 1000 <hi>l.</hi> and had a Verdict; whereupon the ſaid <hi>Warwick</hi> as Heir and Executor to his Father, exhibited his Bill in <hi>Chancery,</hi> pretending that the 80 <hi>l. per Annum</hi> being paid, the 1000 <hi>l.</hi> ought to be ſunk and never paid. And prayed relief againſt the Verdict.</p>
+            <p>And the Executors inſiſting that the Intereſt only had been paid, and that the Principal ought to have been paid: And upon <hi>Bam<g ref="char:EOLhyphen"/>field</hi>'s obtaining an Injunction, It was Ordered by conſent, that if the Court ſhould adjudge it a Mortgage, he would be De<g ref="char:EOLhyphen"/>creed to redeem the Premiſſes, for elſe the Incumbent would have kept the Executor out of poſſeſſion, that the 1000 <hi>l.</hi> would not have been raiſed during the Term.</p>
+            <p>Upon the hearing,
+<note place="margin">3 <hi>Julii</hi> 1675.</note> the Court conceived it to be a Mortgage, and directed an Accompt to be taken how much had been paid above the Common Intereſt ſince Intereſt was reduced to 6 <hi>l. per Cent</hi> (which was 1650.) and that to be diſcompted out of the Prin<g ref="char:EOLhyphen"/>cipal. And what due <hi>Bamfield</hi> was Decreed to pay in a year, and thereupon the Executors to reconvey.</p>
+            <p>The Maſter Reported due to the Executors 623 <hi>l.</hi>
+               <note place="margin">In <hi>May</hi> 1676.</note> 10<hi>s.</hi> (as remaining of the 1000 <hi>l.</hi>) which Report was Decreed, and the Money ſhould long ſince have been paid, but for this Appeal.</p>
+            <list>
+               <item>As to the pretended Agreement to have the 1000 <hi>l.</hi> ſunk on payment of 80 <hi>l. per Annum,</hi> for 42 years, there is no proof of it, and no reaſon for it.
+<list>
+                     <item>For money was then at 8 <hi>l. per Cent.</hi> and no probability of changing; and it would be abſurd to think any man lends his Money to loſe the principal ſo he may have the Intereſt for a time only.</item>
+                     <item>But in this Caſe (by <hi>Bamfield</hi>'s means) the whole 80 <hi>l. per Annum</hi> was paid but for Nine Years, and for the other 33 years only 70 <hi>l. per Annum</hi> was paid, the reſt being abated upon the Decree in 1651; So the <hi>Vaughan</hi>'s have not had the whole 80 <hi>l. per Annum.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>Alſo the Bargain was more for <hi>Bamfield</hi>'s advantage than <hi>Vaughan</hi>'s; for if Money had riſen to 10 <hi>l. per Cent. Vaughan</hi> could have had but 8 <hi>l. per Cent.</hi> during the Term, and was forced to let it lie at that rate all the Term; for it was at <hi>Bamfield</hi>'s election only, to pay the principal or not; and whatever occaſion <hi>Vaughan</hi> had had for his Money, he could not have called it in. Beſides, if the Inte<g ref="char:EOLhyphen"/>reſt fell to 6 <hi>l. per Annum, Bamfield</hi> might by the Deeds at any time have paid in his Money, and ſaved 20 <hi>l. per Annum</hi> of what he agre<g ref="char:EOLhyphen"/>ed to pay, which he would never do, but paid the 80 <hi>l. per Annum</hi> for ſome time, and 70 <hi>l.</hi> for the reſt.</p>
+            <p>And though <hi>Bamfield</hi> did from 1651. pay after the rate of 70 <hi>l. per Annum,</hi> yet the <hi>Chancery</hi> has deducted 10 <hi>l. per Annum</hi> of it (which was above the Intereſt at 6 <hi>l. per Cent.</hi>) and alſo Intereſt for that 10 <hi>l. per Annum</hi> ever ſince; whereby the 1000 <hi>l.</hi> principal is ſunk to 623 <hi>l.</hi> And yet <hi>Bamfield</hi> would be ſo unconſcionable, to have the Executors loſe that too.</p>
+            <p>The Executors conceive they have hardſhip put upon them ſo to have the principal Debt ſunck by 10 <hi>l. per Annum,</hi> and hope they ſhall not be ſtript of the reſidue of their Juſt Debt, upon a pretence, for which, as there is no Proof, ſo there is no Reaſon, Juſtice or Conſcience.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
